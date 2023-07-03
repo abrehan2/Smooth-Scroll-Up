@@ -7,3 +7,7 @@
 # Install
 ### In the project directory, you can run: `npm install smooth-scroll-up`
 
+# Usage
+![code-snapshot](https://github.com/abrehan2/Smooth-Scroll-Up/assets/100872683/7c88a4af-1e6c-48f3-8868-ffd044bd1e31)
+
+
