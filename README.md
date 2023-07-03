@@ -1,4 +1,4 @@
-# Smooth Scroll-Up
+# smooth-scroll-up
 ### Greetings, fellow developers: I have designed an interactive scroll-up button that you can incorporate into your project. Happy coding!
 
 # Package Overview
